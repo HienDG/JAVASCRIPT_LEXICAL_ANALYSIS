@@ -1,0 +1,5 @@
+#ifndef JAVASCRIPT_TOKEN_H
+
+#define JAVASCRIPT_TOKEN_H
+
+#endif // !JAVASCRIPT_TOKEN_H

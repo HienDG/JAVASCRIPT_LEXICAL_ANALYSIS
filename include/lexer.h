@@ -1,0 +1,5 @@
+#ifndef JAVASCRIPT_LEXER_H
+
+#define JAVASCRIPT_LEXER_H
+
+#endif // !JAVASCRIPT_LEXER_H
